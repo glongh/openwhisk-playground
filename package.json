@@ -1,0 +1,11 @@
+{
+  "name": "openwhisk-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/glongh/openwhisk-playground.git",
+  "author": "Gaston Longhitano <glongh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0"
+  }
+}
